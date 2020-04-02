@@ -1,0 +1,30 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+  border-style: none;
+
+  border-color: grey;
+  border-width: 20px;
+  width: 10%;
+}
+
+img{
+  height: 50%;
+}
+
+h1{
+  color: #66BFBF;
+  text-decoration: underline;
+
+    font-family: "Times New Roman", Times, serif;
+
+
+}
+
+h3{
+    color: #66BFBF;
+    text-decoration: underline;
+     font-family: "Times New Roman", Times, serif;
+}
